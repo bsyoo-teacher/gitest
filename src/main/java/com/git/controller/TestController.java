@@ -9,4 +9,7 @@ public class TestController {
 		return "오 감자 잘하는데!";
 	}
 	
+	public String hello() {
+		return "민현님 목소리가 안들린다고 해요!";
+	}
 }
