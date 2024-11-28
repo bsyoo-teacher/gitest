@@ -4,5 +4,5 @@ public class Testgamjaa {
 	public void Gamja() {
 		System.out.println("하이요");
 	}
-
+	private String[] birthDay;
 }
