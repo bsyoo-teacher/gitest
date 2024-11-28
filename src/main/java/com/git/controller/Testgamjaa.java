@@ -8,4 +8,8 @@ public class Testgamjaa {
 	public void Gamja2() {
 		System.out.println("집에가고 싶어요");
 	}
+	
+	public void Gamja3() {
+		System.out.println("집에가고 싶어요2");
+	}
 }
